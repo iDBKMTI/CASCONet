@@ -1,8 +1,6 @@
 # CASCONet
 ## Updates & Corrections (Latest update - June 2017)
 ## Introduction
-### Schema
-![schema](https://user-images.githubusercontent.com/29641074/27456002-4f4b5210-576d-11e7-973c-c0605a6ea060.png)
 Knowledge mobilization and translation describes the process of moving knowledge from research and development (R&D) labs into environments where it can be put to use.
 There is increasing interest in understanding mechanisms for knowledge mobilization, specifically with respect to academia and industry collaborations. 
 These mechanisms include funding programs, research centers, and conferences, among others.
@@ -14,5 +12,7 @@ The results presented at CASCON are examples of knowledge mobilization and trans
 We collected data about CASCON for the past 25 years including information about papers, technology showcase demos, workshops, and keynote presentations. 
 The resulting dataset, called ''CASCONet'' is available for analysis and integration with related datasets.
 By making CASCONet available to others, we hope that the data can be used in additional ways to understand knowledge mobilization and translation in this unique context.
+### Dataset Schema
+![schema](https://user-images.githubusercontent.com/29641074/27456002-4f4b5210-576d-11e7-973c-c0605a6ea060.png)
 ## CASCONet Citation
 CASCONet can be cited as: 
