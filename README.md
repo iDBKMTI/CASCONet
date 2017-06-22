@@ -1,7 +1,7 @@
 # CASCONet
 ## Updates & Corrections (Latest update - June 2017)
 ## Introduction
-Knowledge mobilization and translation describes the process of moving knowledge from research and development (R&D) labs into environments where it can be put to use.
+    Knowledge mobilization and translation describes the process of moving knowledge from research and development (R&D) labs into environments where it can be put to use.
 There is increasing interest in understanding mechanisms for knowledge mobilization, specifically with respect to academia and industry collaborations. 
 These mechanisms include funding programs, research centers, and conferences, among others.
 In our work, we focus on one specific knowledge mobilization mechanism, the CASCON conference, the annual conference of the IBM Centre for Advanced Studies (CAS). 
