@@ -1,4 +1,5 @@
 # CASCONet
+Created by Dixin Luo and Kelly Lyons at University of Toronto
 ## Updates & Corrections (Latest update - June 2017)
 ## Introduction
 Knowledge mobilization and translation describes the process of moving knowledge from research and development (R&D) labs into environments where it can be put to use.
