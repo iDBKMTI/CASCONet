@@ -19,4 +19,5 @@ By making CASCONet available to others, we hope that the data can be used in add
 ![schema](https://user-images.githubusercontent.com/29641074/27456002-4f4b5210-576d-11e7-973c-c0605a6ea060.png)
 ## CASCONet Citation
 CASCONet can be cited as: 
-https://arxiv.org/abs/1706.09485
+
+Dixin Luo, Kelly Lyons, 'CASCONet: A Conference dataset', arXiv preprint arXiv:1706.09485
