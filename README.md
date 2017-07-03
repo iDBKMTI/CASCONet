@@ -20,4 +20,4 @@ By making CASCONet available to others, we hope that the data can be used in add
 ## CASCONet Citation
 CASCONet can be cited as: 
 
-Dixin Luo, Kelly Lyons, 'CASCONet: A Conference dataset', arXiv preprint arXiv:1706.09485 [cs.DL]
+Dixin Luo, Kelly Lyons, "CASCONet: A Conference dataset", arXiv preprint arXiv:1706.09485, 2017
